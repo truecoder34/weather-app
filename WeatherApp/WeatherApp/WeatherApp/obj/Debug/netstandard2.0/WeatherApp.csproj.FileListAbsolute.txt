@@ -1,0 +1,13 @@
+D:\Job\Singularis\Xamarin_exp\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.deps.json
+D:\Job\Singularis\Xamarin_exp\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.dll
+D:\Job\Singularis\Xamarin_exp\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.pdb
+D:\Job\Singularis\Xamarin_exp\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csprojAssemblyReference.cache
+D:\Job\Singularis\Xamarin_exp\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Job\Singularis\Xamarin_exp\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Job\Singularis\Xamarin_exp\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csproj.CoreCompileInputs.cache
+D:\Job\Singularis\Xamarin_exp\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfoInputs.cache
+D:\Job\Singularis\Xamarin_exp\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfo.cs
+D:\Job\Singularis\Xamarin_exp\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.dll
+D:\Job\Singularis\Xamarin_exp\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.pdb
+D:\Job\Singularis\Xamarin_exp\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Job\Singularis\Xamarin_exp\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherPage.xaml.g.cs
